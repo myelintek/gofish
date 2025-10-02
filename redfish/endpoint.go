@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // EntityRole is the role of the endpoint.

@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // NetworkInterfaceLinks references to resources that are related to, but not

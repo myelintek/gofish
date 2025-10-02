@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // SessionService This resource contains the session service properties for a Redfish implementation.

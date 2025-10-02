@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // HeaterSummary shall contain properties that describe the heater metrics summary for the subsystem.

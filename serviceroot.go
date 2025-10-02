@@ -7,9 +7,9 @@ package gofish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
-	"github.com/stmcginnis/gofish/redfish"
-	"github.com/stmcginnis/gofish/swordfish"
+	"github.com/myelintek/gofish/common"
+	"github.com/myelintek/gofish/redfish"
+	"github.com/myelintek/gofish/swordfish"
 )
 
 // DeepOperations shall contain information about deep operations that the service supports.

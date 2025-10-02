@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/stmcginnis/gofish/common"
-	"github.com/stmcginnis/gofish/redfish"
+	"github.com/myelintek/gofish/common"
+	"github.com/myelintek/gofish/redfish"
 )
 
 const eventContext string = "root"

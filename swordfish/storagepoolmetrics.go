@@ -7,7 +7,7 @@ package swordfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // StoragePoolMetrics shall contain the usage and health statistics for a storage pool in a Redfish implementation.

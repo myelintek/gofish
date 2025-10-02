@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/myelintek/gofish/common"
 )
 
 // DirectionOfCrossingEnum shall indicate the direction of crossing that corresponds to a trigger.

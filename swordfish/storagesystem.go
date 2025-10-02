@@ -5,8 +5,8 @@
 package swordfish
 
 import (
-	"github.com/stmcginnis/gofish/common"
-	"github.com/stmcginnis/gofish/redfish"
+	"github.com/myelintek/gofish/common"
+	"github.com/myelintek/gofish/redfish"
 )
 
 // StorageSystem is a Swordfish storage system instance.
